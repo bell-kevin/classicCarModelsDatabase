@@ -1,6 +1,6 @@
 # classicModelsDatabase
 
-We'll be joining a series of database tables. Database of company selling scale models of vehicles
+We'll be joining a series of database tables. Database of company selling scale models of vehicles, planes, truck, motorcycles, etc.
 
 From this video: https://piped.tokhmi.xyz/watch?v=CaRaYQiCCE0
 
