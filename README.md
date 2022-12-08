@@ -4,6 +4,10 @@ We'll be joining a series of database tables. Database of company selling scale 
 
 From this video: https://piped.tokhmi.xyz/watch?v=CaRaYQiCCE0
 
+Database here: https://gist.github.com/prof3ssorSt3v3/796ebc82fd8eeb0b697effaa1e86c3a6
+
+Query here: https://gist.github.com/prof3ssorSt3v3/7a0e90e393f6ead7eb7a79406a364e32
+
 ![p](https://github.com/bell-kevin/classicModelsDatabase/blob/main/classicModels.PNG)
 
 == We're Using GitHub Under Protest ==
