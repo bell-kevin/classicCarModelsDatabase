@@ -10,6 +10,8 @@ Query here: https://gist.github.com/prof3ssorSt3v3/7a0e90e393f6ead7eb7a79406a364
 
 ![p](https://github.com/bell-kevin/classicModelsDatabase/blob/main/classicModels.PNG)
 
+![o](https://github.com/bell-kevin/classicModelsDatabase/blob/main/planes.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
