@@ -2,6 +2,8 @@
 
 We'll be joining a series of database tables. Database of company selling scale models of vehicles
 
+From this video: https://piped.tokhmi.xyz/watch?v=CaRaYQiCCE0
+
 ![p](https://github.com/bell-kevin/classicModelsDatabase/blob/main/classicModels.PNG)
 
 == We're Using GitHub Under Protest ==
